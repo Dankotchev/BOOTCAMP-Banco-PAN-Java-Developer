@@ -34,11 +34,11 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 ### Conhecendo a Linguagem de Programação JAVA
 
 - [x] Dominando IDEs Java
-- [ ] Aprendendo a Sintaxe Java
-- [ ] Lógica Condicional e Controle de Fluxo em Java
-- [ ] Estruturas de Repetição e Arrays em Java
-- [ ] Estrutura de Dados em Java
-- [ ] Entendendo Métodos em Java
+- [x] Aprendendo a Sintaxe Java
+- [x] Lógica Condicional e Controle de Fluxo em Java
+- [x] Estruturas de Repetição e Arrays em Java
+- [x] Estrutura de Dados em Java
+- [x] Entendendo Métodos em Java
 
 ### Dominando Algoritmos  Básicos com Desafios de Código Java
 

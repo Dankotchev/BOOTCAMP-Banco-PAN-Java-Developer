@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/netbeans,java,maven,intellij,eclipse
-# Edit at https://www.toptal.com/developers/gitignore?templates=netbeans,java,maven,intellij,eclipse
+# Created by https://www.toptal.com/developers/gitignore/api/java,maven,eclipse,intellij,netbeans,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=java,maven,eclipse,intellij,netbeans,visualstudiocode
 
 ### Eclipse ###
 .metadata
@@ -235,4 +235,23 @@ dist/
 nbdist/
 .nb-gradle/
 
-# End of https://www.toptal.com/developers/gitignore/api/netbeans,java,maven,intellij,eclipse
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# End of https://www.toptal.com/developers/gitignore/api/java,maven,eclipse,intellij,netbeans,visualstudiocode
