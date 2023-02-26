@@ -1,4 +1,5 @@
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)    ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide)   
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)    ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide)
+**Este repositório:**     **Atividade total:** [![wakatime](https://wakatime.com/badge/user/7acf6789-aea1-423f-9bd3-04bae9188074.svg?style=for-the-badge)](https://wakatime.com/@7acf6789-aea1-423f-9bd3-04bae9188074)
 
 # BOOTCAMP: Banco PAN Java Developer
 
@@ -12,26 +13,22 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 
 **Duração do Bootcamp:** 114 horas
 
-**Atividades Concluídos:** *08 / 41 Concluídas*
-
-**Este repositório:**     **Atividade total:** [![wakatime](https://wakatime.com/badge/user/7acf6789-aea1-423f-9bd3-04bae9188074.svg?style=for-the-badge)](https://wakatime.com/@7acf6789-aea1-423f-9bd3-04bae9188074)
+**Atividades Concluídos:** *11 / 41 Concluídas*
 
 ## Trilhas
 
 ### Prepare-se Para a Jornada
 
 - [x] Conheças as Oportunidades da DIO
-
 - [x] Seja Protagonista Neste Bootcamp
-
 - [x] Introdução ao Desenvolvimento Moderno de Software
 
 ### Princípios de Desenvolvimento de Software
 
-- [ ] Introdução à Programação e ao Pensamento Computacional
-- [ ] Trabalhando em Equipes Ágeis
+- [x] Introdução à Programação e ao Pensamento Computacional
+- [x] Trabalhando em Equipes Ágeis
 - [x] Introdução ao Git e ao GitHub
-- [ ] Como Entregar seu Desafio de Projeto
+- [x] Como Entregar seu Desafio de Projeto
 - [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar seu Progresso
 
 ### Conhecendo a Linguagem de Programação JAVA
@@ -54,41 +51,27 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 ### Programação Orientada a Objetos com Java
 
 - [ ] Programação Orientada a Objetos
-
 - [ ] Trabalhando com Collections Java
-
 - [x] Debugging Java
-
 - [x] Tratamento de Exceções em Java
-
 - [ ] Gerenciamento de Dependências e Build em Java com Maven
-
 - [ ] Testes Unitários em JUnit
-
 - [ ] [**Desafio de Projeto:**]() Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
 ### Trabalhando com Banco de Dados SQL e NoSQL
 
 - [ ] Primeiros Passos com SQL
-
 - [ ] Introdução ao MongoDB e Banco de Dados NoSQL
-
 - [ ] [**Desafio de Projeto:**]() Boas Práticas com DynamoDB
 
 ### Ganhando Produtividade com Spring Framework
 
 - [ ] Principais Protocolos de Comunicação da Internet
-
 - [ ] Imersão no Spring Framework com Spring Boot
-
 - [ ] Criando uma API REST Documentada com Spring Web e Swagger
-
 - [ ] Adicionando Segurança a uma API REST com Spring Security
-
 - [ ] [**Desafio de Projeto:**]() Conhecendo Spring Data JPA na Prática com Java
-
 - [ ] Criando uma API REST Conectada ao Amazon RDS com Java
-
 - [ ] [**Desafio de Projeto:**]() Explorando Padrões de Projetos na Prática com Java
 
 ### Dominando Algoritmos Intermediários com Desafios de Código Java
