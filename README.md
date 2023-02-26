@@ -76,11 +76,11 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 
 ### Dominando Algoritmos Intermediários com Desafios de Código Java
 
-- [ ] [**Desafio de Código:**]() Animal
-- [ ] [**Desafio de Código:**]() Quitanda do Seu Zé
-- [ ] [**Desafio de Código:**]() Triângulo
-- [ ] [**Desafio de Código:**]() Conta Espaços e Vogais
-- [ ] [**Desafio de Código:**]() Imposto de Renda
+- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/Animal.java) Animal
+- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/QuitandaZe.java) Quitanda do Seu Zé
+- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/Triangulo.java) Triângulo
+- [ ] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/ContarEspacosVogais.java) Conta Espaços e Vogais
+- [ ] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/ImpostoRenda.java) Imposto de Renda
 
 ## Mentorias Participadas
 
