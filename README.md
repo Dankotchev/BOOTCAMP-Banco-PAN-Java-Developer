@@ -1,5 +1,5 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)    ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide)
-**Este repositório:**     **Atividade total:** [![wakatime](https://wakatime.com/badge/user/7acf6789-aea1-423f-9bd3-04bae9188074.svg?style=for-the-badge)](https://wakatime.com/@7acf6789-aea1-423f-9bd3-04bae9188074)
+**Este repositório:** [![wakatime](https://wakatime.com/badge/user/7acf6789-aea1-423f-9bd3-04bae9188074/project/77a68b76-9bc3-4e1b-8bcf-d6c78306304f.svg?style=for-the-badge)](https://wakatime.com/badge/user/7acf6789-aea1-423f-9bd3-04bae9188074/project/77a68b76-9bc3-4e1b-8bcf-d6c78306304f)     **Atividade total:** [![wakatime](https://wakatime.com/badge/user/7acf6789-aea1-423f-9bd3-04bae9188074.svg?style=for-the-badge)](https://wakatime.com/@7acf6789-aea1-423f-9bd3-04bae9188074)
 
 # BOOTCAMP: Banco PAN Java Developer
 
@@ -13,7 +13,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 
 **Duração do Bootcamp:** 114 horas
 
-**Atividades Concluídos:** *11 / 41 Concluídas*
+**Atividades Concluídos:** *16/ 41 Concluídas*
 
 ## Trilhas
 
@@ -40,13 +40,13 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 - [x] Estrutura de Dados em Java
 - [x] Entendendo Métodos em Java
 
-### Dominando Algoritmos  Básicos com Desafios de Código Java
+### Dominando Algoritmos Básicos com Desafios de Código Java
 
-- [ ] **[Desafio de Código:]()** Fábrica de Carros
-- [ ] [**Desafio de Código:**]() Imprimindo Positivos e Média
-- [ ] [**Desafio de Código:**]() Soma de H com N Termos
-- [ ] [**Desafio de Código:**]() Dragão!
-- [ ] [**Desafio de Código:**]() Fibonacci Fácil
+- [x] [**Desafio de Código:**](Desafios de Códigos/src/edu/danilo/dio/desafiosdecodigo/FabricaDeCarros.java) Fábrica de Carros
+- [x] [**Desafio de Código:**](Desafios de Códigos/src/edu/danilo/dio/desafiosdecodigo/ImprimindoPositivosMedia.java) Imprimindo Positivos e Média
+- [x] [**Desafio de Código:**](Desafios de Códigos/src/edu/danilo/dio/desafiosdecodigo/SomaHNTermos.java) Soma de H com N Termos
+- [x] [**Desafio de Código:**](Desafios de Códigos/src/edu/danilo/dio/desafiosdecodigo/Dragao.java) Dragão!
+- [x] [**Desafio de Código:**](Desafios de Códigos/src/edu/danilo/dio/desafiosdecodigo/FibonacciFacil.java) Fibonacci Fácil
 
 ### Programação Orientada a Objetos com Java
 
@@ -79,7 +79,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 - [ ] [**Desafio de Código:**]() Animal
 - [ ] [**Desafio de Código:**]() Quitanda do Seu Zé
 - [ ] [**Desafio de Código:**]() Triângulo
-- [ ] [**Desafio de Código:** ]()Conta Espaços e Vogais
+- [ ] [**Desafio de Código:**]() Conta Espaços e Vogais
 - [ ] [**Desafio de Código:**]() Imposto de Renda
 
 ## Mentorias Participadas
