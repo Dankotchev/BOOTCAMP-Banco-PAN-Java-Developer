@@ -42,11 +42,11 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 
 ### Dominando Algoritmos Básicos com Desafios de Código Java
 
-- [x] [**Desafio de Código:**](Desafios de Códigos/src/edu/danilo/dio/desafiosdecodigo/FabricaDeCarros.java) Fábrica de Carros
-- [x] [**Desafio de Código:**](Desafios de Códigos/src/edu/danilo/dio/desafiosdecodigo/ImprimindoPositivosMedia.java) Imprimindo Positivos e Média
-- [x] [**Desafio de Código:**](Desafios de Códigos/src/edu/danilo/dio/desafiosdecodigo/SomaHNTermos.java) Soma de H com N Termos
-- [x] [**Desafio de Código:**](Desafios de Códigos/src/edu/danilo/dio/desafiosdecodigo/Dragao.java) Dragão!
-- [x] [**Desafio de Código:**](Desafios de Códigos/src/edu/danilo/dio/desafiosdecodigo/FibonacciFacil.java) Fibonacci Fácil
+- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/FabricaDeCarros.java) Fábrica de Carros
+- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/ImprimindoPositivosMedia.java) Imprimindo Positivos e Média
+- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/SomaHNTermos.java) Soma de H com N Termos
+- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/Dragao.java) Dragão!
+- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/FibonacciFacil.java) Fibonacci Fácil
 
 ### Programação Orientada a Objetos com Java
 
