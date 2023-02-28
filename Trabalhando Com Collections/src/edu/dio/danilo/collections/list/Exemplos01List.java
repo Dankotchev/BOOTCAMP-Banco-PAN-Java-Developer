@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Iterator;
-import java.util.LinkedList;
 import java.util.List;
 
 public class Exemplos01List {
@@ -30,7 +29,7 @@ public class Exemplos01List {
 
         // Adicionando em uma determinada posição
         System.out.println("Adicione a nota 7 na 3a posicao");
-        listaDeNotas.add(3, 7.0);
+        listaDeNotas.add(3, 7.0);   
         apresentarLista(listaDeNotas);
 
         // Substituindo um nota por outra

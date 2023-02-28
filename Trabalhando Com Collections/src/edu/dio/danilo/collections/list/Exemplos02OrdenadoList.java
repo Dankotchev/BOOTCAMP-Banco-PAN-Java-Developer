@@ -15,7 +15,7 @@ import java.util.List;
         Gato 4 == nome: Avatar, Idade: 10, cor: tigrado;
         Gato 4 == nome: Nala, Idade: 5, cor: amarela;
  */
-public class Exemplo02OrdenadoList {
+public class Exemplos02OrdenadoList {
 
     public static void main(String[] args) {
 
