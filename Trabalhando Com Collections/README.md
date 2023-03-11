@@ -1,88 +1,63 @@
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)    ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")    ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide)
 
 # Trabalhando com Collections Java
 
-<img title="" src="https://hermes.digitalinnovation.one/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" alt="" width="169" data-align="center">
+Resolução de exemplos e exercícios propostos do curso "Trabalhando com Collections Java"
 
-O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha completa em Java Spring Boot e 5 mil bolsas de estudo disponíveis. É indicado para pessoas de baixa renda e de grupos sub representados que estão em busca de sua primeira formação no universo da tecnologia, entretanto, qualquer pessoa interessada pode participar.
+## List
 
-**Duração do Bootcamp:** 114 horas
+Compreendendo métodos da interface List e comparações através das implementações Comparator e Comparable
 
-**Atividades Concluídos:** *16/ 41 Concluídas*
+### Descrição dos Exercícios Propostos
 
-## Trilhas
+- [Temperatura Média:](src\edu\dio\danilo\collections\list\exercicios\TemperaturaMedia.java)
+  
+  Faça um programa que receba e armazene a temperatura média dos 6 primeiro meses do ano e armazene-as em uma lista. 
+  
+  Após isto, calcule a média semestral das temperaturas e mostre todas as temperaturas acima desta média, em que mês elas ocorreram (mostrar o mês por extenso: 1 - Janeiro, 2 - Fevereiro e etc).
 
-### Prepare-se Para a Jornada
+- [Investigação:](src\edu\dio\danilo\collections\list\exercicios\Investigacao.java)
+  
+  Utilizando listas, faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
+  
+  1. "Telefonou para a vítima?"  
+  2. "Esteve no local do crime?"  
+  3. "Mora perto da vítima?"  
+  4. "Devia para a vítima?"  
+  5. "Já trabalhou com a vítima?"
+  
+  Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassina". Caso contrário ela será classificada com "Inocente".
 
-- [x] Conheças as Oportunidades da DIO
-- [x] Seja Protagonista Neste Bootcamp
-- [x] Introdução ao Desenvolvimento Moderno de Software
+## Set
+Compreendendo métodos da interface Set e comparações através das implementações Comparator e Comparable
 
-### Princípios de Desenvolvimento de Software
+### Descrição dos Exercícios Propostos
 
-- [x] Introdução à Programação e ao Pensamento Computacional
-- [x] Trabalhando em Equipes Ágeis
-- [x] Introdução ao Git e ao GitHub
-- [x] Como Entregar seu Desafio de Projeto
-- [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar seu Progresso
+- [Arco-Iris:](src\edu\dio\danilo\collections\set\exercicios\Arcoiris.java)
 
-### Conhecendo a Linguagem de Programação JAVA
+Crie um conjunto contendo as cores do arco-íris e :
 
-- [x] Dominando IDEs Java
-- [x] Aprendendo a Sintaxe Java
-- [x] Lógica Condicional e Controle de Fluxo em Java
-- [x] Estruturas de Repetição e Arrays em Java
-- [x] Estrutura de Dados em Java
-- [x] Entendendo Métodos em Java
+* Exibia todas as cores uma abaixo da outra;
+* A quantidade de cores que o arco-íris têm;
+* Exiba as cores em ordem alfabética;
+* Exiba as cores em ordem inversa da que foi informada;
+* Exiba todas as cores que começam com a letra "v";
+* Remova todas as cores que começam com a çetra "v";
+* Limpe o conjunto;
+* Confira se o conjunto está vazio.
 
-### Dominando Algoritmos Básicos com Desafios de Código Java
+- [Linguagem Favorita:](src\edu\dio\danilo\collections\set\exercicios\LinguagemFavorita.java)
 
-- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/FabricaDeCarros.java) Fábrica de Carros
-- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/ImprimindoPositivosMedia.java) Imprimindo Positivos e Média
-- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/SomaHNTermos.java) Soma de H com N Termos
-- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/Dragao.java) Dragão!
-- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/FibonacciFacil.java) Fibonacci Fácil
+Crie uma classe Linguagem que possua os atributos nome, anoDeCriacao e ide. Em seguida, crie um conjunto de linguagens e faça um programa que ordene esse conjunto por:
 
-### Programação Orientada a Objetos com Java
+* Ordem de inserção;
+* Ordem natural (nome);
+* IDE;
+* Ano de criação e nome;
+* Nome, ano de criação e IDE.
 
-- [x] Programação Orientada a Objetos
-- [ ] Trabalhando com Collections Java
-- [x] Debugging Java
-- [x] Tratamento de Exceções em Java
-- [ ] Gerenciamento de Dependências e Build em Java com Maven
-- [ ] Testes Unitários em JUnit
-- [ ] [**Desafio de Projeto:**]() Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+Ao final, exiba as linguagens no conole, uma abaixo da outra.
 
-### Trabalhando com Banco de Dados SQL e NoSQL
+## Map
 
-- [ ] Primeiros Passos com SQL
-- [ ] Introdução ao MongoDB e Banco de Dados NoSQL
-- [ ] [**Desafio de Projeto:**]() Boas Práticas com DynamoDB
-
-### Ganhando Produtividade com Spring Framework
-
-- [ ] Principais Protocolos de Comunicação da Internet
-- [ ] Imersão no Spring Framework com Spring Boot
-- [ ] Criando uma API REST Documentada com Spring Web e Swagger
-- [ ] Adicionando Segurança a uma API REST com Spring Security
-- [ ] [**Desafio de Projeto:**]() Conhecendo Spring Data JPA na Prática com Java
-- [ ] Criando uma API REST Conectada ao Amazon RDS com Java
-- [ ] [**Desafio de Projeto:**]() Explorando Padrões de Projetos na Prática com Java
-
-### Dominando Algoritmos Intermediários com Desafios de Código Java
-
-- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/Animal.java) Animal
-- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/QuitandaZe.java) Quitanda do Seu Zé
-- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/Triangulo.java) Triângulo
-- [ ] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/ContarEspacosVogais.java) Conta Espaços e Vogais
-- [ ] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/ImpostoRenda.java) Imposto de Renda
-
-## Mentorias Participadas
-
-- [x] 23/02/2023     #01 Aula Inaugural
-- [ ] 28/02/2023     #02 Pirâmide de Testes de TDD
-- [ ] 07/03/2023     #03 Solid e Boas Práticas
-- [ ] 14/03/2023     #04 Overview de Computação em Nuvem
-- [ ] 21/03/2023     #05 Engenharia de Confiabilidade de Site (SRE)
-- [ ] 28/03/2023     #06 Como Trabalhamos e Como Entregamos Performance
-- [ ] 05/04/2023     #07 Dicas para se Tornar um Desenvolvedor de Sucesso
+## Stream
