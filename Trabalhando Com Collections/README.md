@@ -60,4 +60,30 @@ Ao final, exiba as linguagens no conole, uma abaixo da outra.
 
 ## Map
 
+- [População](src\edu\dio\danilo\collections\Map\exercicios\População.java):
+
+Dada a população estimada de alguns estados do nordeste brasileiro, faça:
+Estado = PE - População = 9.616.621
+Estado = AL - População = 3.351.543
+Estado = CE - População = 9.187.103
+Estado = RN - População = 3.534.265
+
+* Crie um dicionário e relacione os estados e suas populações
+* Substitua a populção do estado do RN por 3.534.165
+* Confira se o estado PB está no dicionário, caso não adcione PE - 4.039.277
+* Exiba a população do PE
+* Exiba todos os estados e suas populações na ordem em que foram informados
+* Exiba os estados e suas populações em ordem alfabética
+* Exiba o estado com a menor população
+* Exiba o estado com a maior população
+* Exiba a soma populacional desses estados
+* Exiba a média populacional desses estados
+* Remova os estados com população menor do que 4.000.000
+* Apague o dicionário de estados
+* Confira se o dicionário está vazio
+
+- [Lançamento de Dados](src\edu\dio\danilo\collections\Map\exercicios\LancamentoDado.java):
+
+Faça um programa que simule o lançamento de dados. Lance o dado 100 vezes e armazene. Depois mostre quantas vezes cada valor foi inserido.
+
 ## Stream
