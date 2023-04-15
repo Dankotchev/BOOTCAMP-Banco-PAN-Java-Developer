@@ -85,5 +85,3 @@ Estado = RN - População = 3.534.265
 - [Lançamento de Dados](src\edu\dio\danilo\collections\Map\exercicios\LancamentoDado.java):
 
 Faça um programa que simule o lançamento de dados. Lance o dado 100 vezes e armazene. Depois mostre quantas vezes cada valor foi inserido.
-
-## Stream
