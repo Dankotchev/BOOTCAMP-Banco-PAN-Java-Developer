@@ -1,4 +1,5 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)    ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide)
+
 **Este repositório:** [![wakatime](https://wakatime.com/badge/user/7acf6789-aea1-423f-9bd3-04bae9188074/project/77a68b76-9bc3-4e1b-8bcf-d6c78306304f.svg?style=for-the-badge)](https://wakatime.com/badge/user/7acf6789-aea1-423f-9bd3-04bae9188074/project/77a68b76-9bc3-4e1b-8bcf-d6c78306304f)     **Atividade total:** [![wakatime](https://wakatime.com/badge/user/7acf6789-aea1-423f-9bd3-04bae9188074.svg?style=for-the-badge)](https://wakatime.com/@7acf6789-aea1-423f-9bd3-04bae9188074)
 
 # BOOTCAMP: Banco PAN Java Developer
@@ -50,12 +51,12 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 
 ### Programação Orientada a Objetos com Java
 
-- [ ] Programação Orientada a Objetos
-- [ ] Trabalhando com Collections Java
+- [x] Programação Orientada a Objetos
+- [x] Trabalhando com Collections Java
 - [x] Debugging Java
 - [x] Tratamento de Exceções em Java
-- [ ] Gerenciamento de Dependências e Build em Java com Maven
-- [ ] Testes Unitários em JUnit
+- [x] Gerenciamento de Dependências e Build em Java com Maven
+- [x] Testes Unitários em JUnit
 - [ ] [**Desafio de Projeto:**]() Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
 ### Trabalhando com Banco de Dados SQL e NoSQL
