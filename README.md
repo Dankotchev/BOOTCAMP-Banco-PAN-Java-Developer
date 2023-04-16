@@ -57,7 +57,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 - [x] Tratamento de Exceções em Java
 - [x] Gerenciamento de Dependências e Build em Java com Maven
 - [x] Testes Unitários em JUnit
-- [ ] [**Desafio de Projeto:**]() Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+- [x] [**Desafio de Projeto:**](Desafio_de_Projeto/AbstraindoBootcamp) Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
 ### Trabalhando com Banco de Dados SQL e NoSQL
 
