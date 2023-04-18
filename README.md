@@ -62,8 +62,8 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 ### Trabalhando com Banco de Dados SQL e NoSQL
 
 - [x] Primeiros Passos com SQL
-- [ ] Introdução ao MongoDB e Banco de Dados NoSQL
-- [ ] [**Desafio de Projeto:**]() Boas Práticas com DynamoDB
+- [x] Introdução ao MongoDB e Banco de Dados NoSQL
+- [x] Desafio de Projeto: Boas Práticas com DynamoDB
 
 ### Ganhando Produtividade com Spring Framework
 
