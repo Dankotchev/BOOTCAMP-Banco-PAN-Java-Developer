@@ -14,7 +14,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 
 **Duração do Bootcamp:** 114 horas
 
-**Atividades Concluídos:** *16/ 41 Concluídas*
+**Atividades Concluídos:** *34/ 41 Concluídas*
 
 ## Trilhas
 
@@ -67,8 +67,8 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 
 ### Ganhando Produtividade com Spring Framework
 
-- [ ] Principais Protocolos de Comunicação da Internet
-- [ ] Imersão no Spring Framework com Spring Boot
+- [x] Principais Protocolos de Comunicação da Internet
+- [x] Imersão no Spring Framework com Spring Boot
 - [ ] Criando uma API REST Documentada com Spring Web e Swagger
 - [ ] Adicionando Segurança a uma API REST com Spring Security
 - [ ] [**Desafio de Projeto:**]() Conhecendo Spring Data JPA na Prática com Java
