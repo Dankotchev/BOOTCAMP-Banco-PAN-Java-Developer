@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/academia?useTimezone=true&serverTimezone=America/Sao_Paulo&useLegacyDate&useSSL=false
+    username: root
+    password: ifsp
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate.format_sql: true

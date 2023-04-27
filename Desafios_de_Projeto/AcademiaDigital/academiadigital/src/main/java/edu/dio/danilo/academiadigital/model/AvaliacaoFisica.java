@@ -1,18 +1,24 @@
 package edu.dio.danilo.academiadigital.model;
 
 import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
 import java.time.LocalDate;
 
 @Entity
 @Table(name = "avaliacao_fisica")
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
 public class AvaliacaoFisica {
     @Id
     @Column(name = "id_avaliacao")
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @ManyToOne
+    @ManyToOne(cascade = CascadeType.ALL)
     @JoinColumn(name = "aluno_id")
     private Aluno aluno;
 
