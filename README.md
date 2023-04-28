@@ -14,7 +14,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 
 **Duração do Bootcamp:** 114 horas
 
-**Atividades Concluídos:** *36/ 41 Concluídas*
+**Atividades Concluídos:** *37/ 41 Concluídas*
 
 ## Trilhas
 
@@ -71,7 +71,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 - [x] Imersão no Spring Framework com Spring Boot
 - [x] Criando uma API REST Documentada com Spring Web e Swagger
 - [x] Adicionando Segurança a uma API REST com Spring Security
-- [ ] [**Desafio de Projeto:**]() Conhecendo Spring Data JPA na Prática com Java
+- [x] [**Desafio de Projeto:**](Desafio_de_Projeto/AcademiaDigital) Conhecendo Spring Data JPA na Prática com Java
 - [ ] Criando uma API REST Conectada ao Amazon RDS com Java
 - [ ] [**Desafio de Projeto:**]() Explorando Padrões de Projetos na Prática com Java
 
@@ -86,9 +86,9 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 ## Mentorias Participadas
 
 - [x] 23/02/2023     #01 Aula Inaugural
-- [ ] 28/02/2023     #02 Pirâmide de Testes de TDD
-- [ ] 07/03/2023     #03 Solid e Boas Práticas
-- [ ] 14/03/2023     #04 Overview de Computação em Nuvem
-- [ ] 21/03/2023     #05 Engenharia de Confiabilidade de Site (SRE)
-- [ ] 28/03/2023     #06 Como Trabalhamos e Como Entregamos Performance
-- [ ] 05/04/2023     #07 Dicas para se Tornar um Desenvolvedor de Sucesso
+- [x] 28/02/2023     #02 Pirâmide de Testes de TDD
+- [x] 07/03/2023     #03 Solid e Boas Práticas
+- [x] 14/03/2023     #04 Overview de Computação em Nuvem
+- [x] 21/03/2023     #05 Engenharia de Confiabilidade de Site (SRE)
+- [x] 28/03/2023     #06 Como Trabalhamos e Como Entregamos Performance
+- [x] 05/04/2023     #07 Dicas para se Tornar um Desenvolvedor de Sucesso
