@@ -4,7 +4,9 @@ import edu.dio.danilo.academiadigital.model.Aluno;
 import edu.dio.danilo.academiadigital.model.AvaliacaoFisica;
 import edu.dio.danilo.academiadigital.model.form.AlunoForm;
 import edu.dio.danilo.academiadigital.model.form.AlunoUpdateForm;
+import edu.dio.danilo.academiadigital.repository.AlunoRepository;
 import edu.dio.danilo.academiadigital.service.interfaces.AlunoService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -12,9 +14,17 @@ import java.util.List;
 @Service
 public class AlunoServiceImpl implements AlunoService {
 
+    @Autowired
+    private AlunoRepository repository;
+
     @Override
     public Aluno create(AlunoForm form) {
-        return null;
+        Aluno aluno = new Aluno();
+        aluno.setNome(form.getNome());
+        aluno.setCpf(form.getCpf());
+        aluno.setBairro(form.getBairro());
+        aluno.setDataNascimento(form.getDataNascimento());
+        return repository.save(aluno);
     }
 
     @Override
@@ -24,7 +34,7 @@ public class AlunoServiceImpl implements AlunoService {
 
     @Override
     public List<Aluno> getAll(String dataDeNascimento) {
-        return null;
+        return repository.findAll();
     }
 
     @Override
@@ -39,6 +49,8 @@ public class AlunoServiceImpl implements AlunoService {
 
     @Override
     public List<AvaliacaoFisica> getAllAvaliacaoFisicaId(Long id) {
-        return null;
+        return repository.findById(id)
+                .get()
+                .getAvaliacoes();
     }
 }
