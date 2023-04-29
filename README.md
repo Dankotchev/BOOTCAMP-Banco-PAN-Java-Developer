@@ -14,7 +14,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 
 **Duração do Bootcamp:** 114 horas
 
-**Atividades Concluídos:** *37/ 41 Concluídas*
+**Atividades Concluídos:** *40/ 41 Concluídas*
 
 ## Trilhas
 
@@ -72,7 +72,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 - [x] Criando uma API REST Documentada com Spring Web e Swagger
 - [x] Adicionando Segurança a uma API REST com Spring Security
 - [x] [**Desafio de Projeto:**](Desafio_de_Projeto/AcademiaDigital) Conhecendo Spring Data JPA na Prática com Java
-- [ ] Criando uma API REST Conectada ao Amazon RDS com Java
+- [x] Criando uma API REST Conectada ao Amazon RDS com Java
 - [ ] [**Desafio de Projeto:**]() Explorando Padrões de Projetos na Prática com Java
 
 ### Dominando Algoritmos Intermediários com Desafios de Código Java
@@ -80,8 +80,8 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 - [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/Animal.java) Animal
 - [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/QuitandaZe.java) Quitanda do Seu Zé
 - [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/Triangulo.java) Triângulo
-- [ ] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/ContarEspacosVogais.java) Conta Espaços e Vogais
-- [ ] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/ImpostoRenda.java) Imposto de Renda
+- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/ContarEspacosVogais.java) Conta Espaços e Vogais
+- [x] [**Desafio de Código:**](Desafios_de_Códigos/src/edu/danilo/dio/desafiosdecodigo/ImpostoRenda.java) Imposto de Renda
 
 ## Mentorias Participadas
 
