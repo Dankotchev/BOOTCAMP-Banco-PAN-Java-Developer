@@ -6,6 +6,10 @@
 
 Repositório da jornada do [Bootcamp: Banco PAN Java Developer](https://web.dio.me/track/banco-pan-java-developer) da DIO;
 
+## Certificado de Conclusão
+
+<img title="" src="https://hermes.digitalinnovation.one/certificates/cover/F650F0BE.jpg" alt="Certificado de conclusão do Bootcamp Banco Pan Java Developer emitido com o código F650F0BE" width="500" data-align="center">
+
 ## Apresentação
 
 <img title="" src="https://hermes.digitalinnovation.one/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" alt="" width="169" data-align="center">
@@ -14,7 +18,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 
 **Duração do Bootcamp:** 114 horas
 
-**Atividades Concluídos:** *40/ 41 Concluídas*
+**Atividades Concluídos:** *41/ 41 Concluídas*
 
 ## Trilhas
 
@@ -57,7 +61,7 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 - [x] Tratamento de Exceções em Java
 - [x] Gerenciamento de Dependências e Build em Java com Maven
 - [x] Testes Unitários em JUnit
-- [x] [**Desafio de Projeto:**](Desafio_de_Projeto/AbstraindoBootcamp) Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+- [x] [**Desafio de Projeto:**](Desafios_de_Projeto/AbstraindoBootcamp/) Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
 ### Trabalhando com Banco de Dados SQL e NoSQL
 
@@ -71,9 +75,9 @@ O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha comp
 - [x] Imersão no Spring Framework com Spring Boot
 - [x] Criando uma API REST Documentada com Spring Web e Swagger
 - [x] Adicionando Segurança a uma API REST com Spring Security
-- [x] [**Desafio de Projeto:**](Desafio_de_Projeto/AcademiaDigital) Conhecendo Spring Data JPA na Prática com Java
+- [x] [**Desafio de Projeto:**](Desafios_de_Projeto/AcademiaDigital) Conhecendo Spring Data JPA na Prática com Java
 - [x] Criando uma API REST Conectada ao Amazon RDS com Java
-- [ ] [**Desafio de Projeto:**]() Explorando Padrões de Projetos na Prática com Java
+- [x] [**Desafio de Projeto:**](Desafios_de_Projeto/PadrõesDeProjeto) Explorando Padrões de Projetos na Prática com Java
 
 ### Dominando Algoritmos Intermediários com Desafios de Código Java
 
